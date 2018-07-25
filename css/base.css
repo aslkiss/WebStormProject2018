@@ -52,13 +52,4 @@ s,i,em{font-style:normal;text-decoration:none;}
 }
 
 
-/*2018/7/25 头部导航开始*/
-.shortcut {
-    height: 30px;
-    line-height: 30px;
-    background-color: #f1f1f1;
-    /*使用宽度100%主要是将整个宽度铺平，避免显示不全。*/
-    width: 100%;
-    /*background-color: red;*/
-}
 
