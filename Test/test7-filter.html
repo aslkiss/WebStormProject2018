@@ -10,11 +10,32 @@
         }
 
         .windows {
-            width: 400px;
+            width: 640px;
             height: 400px;
-            /*background-color: pink;*/
-            background: url(/images/) no-repeat 0 0;
+            margin: 0 auto;
+            background:url(../images/slider1.jpg) no-repeat;
+
+            /*position: relative;*/
+            padding: 1px;
+            box-sizing: border-box;
+            z-index: 1;
         }
+
+        .windows:hover {
+            content: "";
+            width: 640px;
+            height: 400px;
+            /*position: absolute;*/
+            left: 50%;
+            top: 0;
+            background: url(../images/slider1.jpg) no-repeat;
+            filter: blur(2px);
+            z-index: 2;
+        }
+
+
+
+
 
         </style>
 
