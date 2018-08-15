@@ -16,6 +16,7 @@
             background-color: #8a25c6;
             /*background-color: pink;*/
         }
+
         .img {
             position: relative;
             height: 80px;
@@ -39,7 +40,7 @@
             /*20180813 16:53 获取精灵图，然后使用底部对齐*/
             background-position: bottom;
         }
-        
+
         .heard {
             height: 900px;
             width: 100%;
@@ -67,8 +68,14 @@
     // var a=document.getElementById("topbanner");
 
     function close_banner() {
-        document.getElementById("topbanner").style.display="none";
+        document.getElementById("topbanner").style.display = "none";
     }
+
+    // 也可以这种写
+    // topbanner.onclick=close_banner();
+    // topbanner.onclick=function() {
+    //     document.getElementById("topbanner").style.display="none";
+    // }
 
 </script>
 
