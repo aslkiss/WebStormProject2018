@@ -13,7 +13,7 @@
             width: 600px;
             height: 400px;
             margin: 0 auto;
-            background: url(../images/slider1.jpg) no-repeat;
+            background: url(../images/11.jpg) no-repeat;
 
             /*父亲相对定位*/
             position: relative;
@@ -77,6 +77,11 @@
             right: 0;
         }
 
+        .father .arrow {
+            /*隐藏小三角*/
+            display: none;
+        }
+
         .father .arrow a {
             color: #ffffff;
             font-size: 16px;
@@ -89,26 +94,94 @@
         /*end----小三角*/
 
     </style>
-    <link rel="stylesheet" href="../css/base.css"></head>
+    <link rel="stylesheet" href="../css/base.css">
+</head>
 <body>
-<div class="father">
+<div class="father" id="father">
     <!--图片下面轮播图小圆点-->
     <div class="list">
         <ul>
-            <li class="current">1</li>
-            <li>2</li>
-            <li>3</li>
-            <li>4</li>
-            <li>5</li>
+            <li class="current" id="li01">1</li>
+            <li id="li02">2</li>
+            <li id="li03">3</li>
+            <li id="li04">4</li>
+            <li id="li05">5</li>
         </ul>
     </div>
 
     <!--左右小三角-->
-    <div class="arrow">
-        <a href="javascript:;" class="arrow-left">
+    <div class="arrow" id="arrow">
+        <a href="javascript:;" class="arrow-left" id="arr-l">
             <</a>
-        <a href="javascript:;" class="arrow-right">></a>
+        <a href="javascript:;" class="arrow-right" id="arr-r">></a>
     </div>
 </div>
+
+<script>
+
+    // 1.轮播图上面的左右小三角按钮
+    var arrow=document.getElementById("arrow");
+    var arr_l=document.getElementById("arr-l");
+    var arr_r=document.getElementById("arr-r");
+    var father=document.getElementById("father");
+
+    // 实现当鼠标移动到图片上的时候，显示小三角;默认小三角先要隐藏
+    father.onmousemove=function(){
+        //显示小三角
+        arrow.style.display="block";
+    };
+    father.onmouseout=function () {
+        //隐藏小三角
+        arrow.style.display="none";
+    };
+
+    // 2.图片下面的1~5的图片轮播
+    var li01=document.getElementById("li01");
+    var li02=document.getElementById("li02");
+    var li03=document.getElementById("li03");
+    var li04=document.getElementById("li04");
+    var li05=document.getElementById("li05");
+
+    li01.onmousemove=function(){
+        father.style.backgroundImage="url(../images/11.jpg)";
+        li01.className="current";
+    }
+    li01.onmouseout=function(){
+        li01.className="";
+    }
+
+    li02.onmousemove=function(){
+        father.style.backgroundImage="url(../images/22.jpg)";
+        li02.className="current";
+    }
+    li02.onmouseout=function(){
+        li02.className="";
+    }
+
+    li03.onmousemove=function(){
+        father.style.backgroundImage="url(../images/33.jpg)";
+        li03.className="current";
+    }
+    li03.onmouseout=function(){
+        li03.className="";
+    }
+
+    li04.onmousemove=function(){
+        father.style.backgroundImage="url(../images/44.jpg)";
+        li04.className="current";
+    }
+    li04.onmouseout=function(){
+        li04.className="";
+    }
+
+    li05.onmousemove=function(){
+        father.style.backgroundImage="url(../images/55.jpg)";
+        li05.className="current";
+    }
+    li05.onmouseout=function(){
+        li05.className="";
+    }
+
+</script>
 </body>
 </html>
