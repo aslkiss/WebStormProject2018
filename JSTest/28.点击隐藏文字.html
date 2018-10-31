@@ -63,18 +63,33 @@
     // }
 
 
-    $("search").onclick = function () {
+    // $("search").onclick = function () {
+    //     if ($("search").value == "请输入...") {
+    //         $("search").value = "";
+    //         $("search").style.color = "#333";
+    //     }
+    //
+    //     // 失去焦点
+    //     $("search").onblur = function () {
+    //         if ($("search").value == "") {
+    //             $("search").value = "请输入...";
+    //             $("search").style.color = "#ccc";
+    //         }
+    //     }
+
+
+    // 其实就用上面的onclick + onblur就可以解决了，时间2018/10/31 老师是是使用 onfocus & onblur 来处理的，代码如下：
+    $("search").onfocus = function () {
         if ($("search").value == "请输入...") {
             $("search").value = "";
             $("search").style.color = "#333";
         }
+    }
 
-        // 失去焦点
-        $("search").onfocus = function () {
-            if ($("search").value == "") {
-                $("search").value = "请输入...";
-                $("search").style.color = "#ccc";
-            }
+    $("search").onblur = function () {
+        if ($("search").value == "") {
+            $("search").value = "请输入...";
+            $("search").style.color = "#ccc";
         }
 
     }
