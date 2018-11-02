@@ -46,54 +46,53 @@
 </head>
 
 <body>
-<div class="box">
-    <input type="text" name="search" class="search" id="search" value="请输入...">
-    <button name="btn" class="btn" id="btn"></button>
-</div>
+    <div class="box">
+        <input type="text" name="search" class="search" id="search" value="请输入...">
+        <button name="btn" class="btn" id="btn"></button>
+    </div>
 
-<script>
-    function $(id) {
-        return document.getElementById(id);
-    }
-
-    var txt = document.getElementById("search");
-    // onchange 的事件就是 值发生改变并且必须敲回车之后才会有提示框
-    // $("search").onchange=function(){
-    //     alert("12121");
-    // }
-
-
-    // $("search").onclick = function () {
-    //     if ($("search").value == "请输入...") {
-    //         $("search").value = "";
-    //         $("search").style.color = "#333";
-    //     }
-    //
-    //     // 失去焦点
-    //     $("search").onblur = function () {
-    //         if ($("search").value == "") {
-    //             $("search").value = "请输入...";
-    //             $("search").style.color = "#ccc";
-    //         }
-    //     }
-
-
-    // 其实就用上面的onclick + onblur就可以解决了，时间2018/10/31 老师是是使用 onfocus & onblur 来处理的，代码如下：
-    $("search").onfocus = function () {
-        if ($("search").value == "请输入...") {
-            $("search").value = "";
-            $("search").style.color = "#333";
-        }
-    }
-
-    $("search").onblur = function () {
-        if ($("search").value == "") {
-            $("search").value = "请输入...";
-            $("search").style.color = "#ccc";
+    <script>
+        function $(id) {
+            return document.getElementById(id);
         }
 
-    }
-</script>
+        var txt = document.getElementById("search");
+        // onchange 的事件就是 值发生改变并且必须敲回车之后才会有提示框
+        // $("search").onchange=function(){
+        //     alert("12121");
+        // }
+
+
+        // $("search").onclick = function () {
+        //     if ($("search").value == "请输入...") {
+        //         $("search").value = "";
+        //         $("search").style.color = "#333";
+        //     }
+        //
+        //     // 失去焦点
+        //     $("search").onblur = function () {
+        //         if ($("search").value == "") {
+        //             $("search").value = "请输入...";
+        //             $("search").style.color = "#ccc";
+        //         }
+        //     }
+
+
+        // 其实就用上面的onclick + onblur就可以解决了，时间2018/10/31 老师是是使用 onfocus & onblur 来处理的，代码如下：
+        $("search").onfocus = function () {
+            if ($("search").value == "请输入...") {
+                $("search").value = "";
+                $("search").style.color = "#333";
+            }
+        }
+        $("search").onblur = function () {
+            if ($("search").value == "") {
+                $("search").value = "请输入...";
+                $("search").style.color = "#ccc";
+            }
+
+        }
+    </script>
 </body>
 
 </html>
