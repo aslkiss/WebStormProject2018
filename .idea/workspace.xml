@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSTest/30.innerHTML和innerText区别.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/30.innerHTML和innerText区别.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,23 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="30.innerHTML和innerText区别.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSTest/30.innerHTML和innerText区别.html">
+      <file leaf-file-name="31.鼠标经过选择表单.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-              <folding>
-                <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="29.表单验证this和innerHTML.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -77,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Test/test7-filter.html" />
         <option value="$PROJECT_DIR$/Test/test6-radius.html" />
         <option value="$PROJECT_DIR$/Test/test8-branner.html" />
         <option value="$PROJECT_DIR$/Test/test8-left right.html" />
@@ -128,6 +114,7 @@
         <option value="$PROJECT_DIR$/JSTest/28.点击隐藏文字.html" />
         <option value="$PROJECT_DIR$/JSTest/30.innerHTML和innerText区别.html" />
         <option value="$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html" />
+        <option value="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" />
       </list>
     </option>
   </component>
@@ -147,8 +134,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1859" />
-    <option name="y" value="166" />
+    <option name="x" value="1854" />
+    <option name="y" value="290" />
     <option name="width" value="1378" />
     <option name="height" value="863" />
   </component>
@@ -273,7 +260,7 @@
       <workItem from="1541381712681" duration="2054000" />
       <workItem from="1541386505002" duration="2090000" />
       <workItem from="1541466486395" duration="4436000" />
-      <workItem from="1541725824235" duration="735000" />
+      <workItem from="1541725824235" duration="2128000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -499,11 +486,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541470534446</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Default">
+      <created>1541726590629</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1541726590629</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190764000" />
+    <option name="totallyTimeSpent" value="192157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1859" y="166" width="1378" height="863" extended-state="0" />
@@ -586,13 +580,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AISTets/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AISTets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -897,8 +884,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        <state relative-caret-position="465">
+          <caret line="71" column="6" lean-forward="true" selection-start-line="71" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
