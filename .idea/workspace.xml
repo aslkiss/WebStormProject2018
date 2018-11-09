@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +23,8 @@
       <file leaf-file-name="31.鼠标经过选择表单.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="76">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -133,8 +134,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1854" />
-    <option name="y" value="290" />
+    <option name="x" value="1904" />
+    <option name="y" value="229" />
     <option name="width" value="1378" />
     <option name="height" value="863" />
   </component>
@@ -259,7 +260,7 @@
       <workItem from="1541381712681" duration="2054000" />
       <workItem from="1541386505002" duration="2090000" />
       <workItem from="1541466486395" duration="4436000" />
-      <workItem from="1541725824235" duration="2216000" />
+      <workItem from="1541725824235" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -499,14 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541728092295</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Default">
+      <created>1541728104883</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1541728104883</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192245000" />
+    <option name="totallyTimeSpent" value="192354000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1854" y="290" width="1378" height="863" extended-state="0" />
+    <frame x="1904" y="229" width="1378" height="863" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14552239" />
@@ -897,8 +905,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="76">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
