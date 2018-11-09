@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/JSTest/32.金字塔.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="31.鼠标经过选择表单.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="31.鼠标经过选择表单.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32.金字塔.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSTest/32.金字塔.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="12" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Test/test6-radius.html" />
         <option value="$PROJECT_DIR$/Test/test8-branner.html" />
         <option value="$PROJECT_DIR$/Test/test8-left right.html" />
         <option value="$PROJECT_DIR$/Test/test9-lift.html" />
@@ -115,6 +123,7 @@
         <option value="$PROJECT_DIR$/JSTest/30.innerHTML和innerText区别.html" />
         <option value="$PROJECT_DIR$/JSTest/29.表单验证this和innerHTML.html" />
         <option value="$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html" />
+        <option value="$PROJECT_DIR$/JSTest/32.金字塔.html" />
       </list>
     </option>
   </component>
@@ -134,10 +143,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1904" />
-    <option name="y" value="229" />
+    <option name="x" value="1877" />
+    <option name="y" value="119" />
     <option name="width" value="1378" />
-    <option name="height" value="863" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -260,7 +269,8 @@
       <workItem from="1541381712681" duration="2054000" />
       <workItem from="1541386505002" duration="2090000" />
       <workItem from="1541466486395" duration="4436000" />
-      <workItem from="1541725824235" duration="2325000" />
+      <workItem from="1541725824235" duration="4004000" />
+      <workItem from="1541730461078" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -507,14 +517,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541728104883</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Default">
+      <created>1541728220442</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1541728220442</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192354000" />
+    <option name="totallyTimeSpent" value="194229000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1904" y="229" width="1378" height="863" extended-state="0" />
+    <frame x="1877" y="119" width="1378" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14552239" />
@@ -540,20 +557,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14962406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32961783" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3280255" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32961783" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -594,13 +611,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AISTets/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AISTets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -890,9 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#input#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -905,8 +912,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/31.鼠标经过选择表单.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="266">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/32.金字塔.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="12" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
