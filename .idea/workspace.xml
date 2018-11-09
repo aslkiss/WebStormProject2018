@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
-      <change afterPath="$PROJECT_DIR$/JSTest/33.获取某类元素.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTest/33.获取某类元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/33.获取某类元素.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="33.获取某类元素.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSTest/33.获取某类元素.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -261,7 +261,7 @@
       <workItem from="1541386505002" duration="2090000" />
       <workItem from="1541466486395" duration="4436000" />
       <workItem from="1541725824235" duration="4004000" />
-      <workItem from="1541730461078" duration="1175000" />
+      <workItem from="1541730461078" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -522,11 +522,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541730829804</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Default">
+      <created>1541731646333</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1541731646333</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195208000" />
+    <option name="totallyTimeSpent" value="195447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1819" y="172" width="1378" height="797" extended-state="0" />
@@ -917,8 +924,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/33.获取某类元素.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
