@@ -13,6 +13,8 @@
             margin: 50px auto;
             width: 300px;
             height: 200px;
+
+            position: relative;
         }
 
         #txt {
@@ -24,17 +26,56 @@
             */
             font-size: 15px;
             padding: 2.5px 0 2.5px 5px;
+
+            /*这里出错了，input & label 都是 div的孩子，所以遵循 子绝父相 的原则， 设置 相对定位 应该设置在父亲div里面*/
+            /*position: relative;*/
+        }
+
+        #label {
+            color: #ccc;
+            font-size: 15px;
+            position: absolute;
+            top: 2.5px;
+            left: 5px;
+
+            /*2018/11/13 需要增加鼠标移动到label 的标签上的时候也出现 光标的情况
+            */
+
+            cursor: text;
         }
 
     </style>
+
+    <script>
+        window.onload=function () {
+
+            function $(id) {
+                return document.getElementById(id);
+            }
+
+            $("txt").oninput=$("txt").onpropertychange=function () {
+                if (this.value==""){
+                    $("label").style.display="block";
+                }
+                else
+                {
+                    $("label").style.display="none";
+                }
+            }
+
+
+
+
+        }
+    </script>
 </head>
 <body>
 
-    <div>
-        <input type="text" name="" id="txt" />
-        <label for="txt" id="label">荒废的大品牌</label>
+<div>
+    <input type="text" name="" id="txt"/>
+    <label for="txt" id="label">荒废的大品牌</label>
 
-    </div>
+</div>
 
 </body>
 </html>
