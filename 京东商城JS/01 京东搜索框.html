@@ -4,14 +4,36 @@
     <meta charset="UTF-8">
     <title>京东搜索框</title>
     <style>
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
 
+        div {
+            margin: 50px auto;
+            width: 300px;
+            height: 200px;
+        }
+
+        #txt {
+            width: 193px;
+            height: 20px;
+
+            /*2018/11/13 不同的浏览器显示 鼠标的光标 和字体的大小不一样，这种情况下就使用 font-size + padding = height 的方式来实现
+                这种方式可以挤压和排序的使用
+            */
+            font-size: 15px;
+            padding: 2.5px 0 2.5px 5px;
+        }
 
     </style>
 </head>
 <body>
 
     <div>
-        <input type="text" name="" id="">
+        <input type="text" name="" id="txt" />
+        <label for="txt" id="label">荒废的大品牌</label>
+
     </div>
 
 </body>

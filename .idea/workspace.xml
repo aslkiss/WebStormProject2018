@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
-      <change afterPath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/京东商城JS/02 input输入光标高度问题.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,20 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="33.获取某类元素.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSTest/33.获取某类元素.html">
+      <file leaf-file-name="01 京东搜索框.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/01 京东搜索框.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="183">
+              <caret line="21" column="26" selection-end-line="39" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01 京东搜索框.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/京东商城JS/01 京东搜索框.html">
+      <file leaf-file-name="02 input输入光标高度问题.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/02 input输入光标高度问题.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="350">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -73,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Test/test9-lift.html" />
         <option value="$PROJECT_DIR$/Test/test10-overhidden.html" />
         <option value="$PROJECT_DIR$/JSTest/01.FristJavaScript.html" />
         <option value="$PROJECT_DIR$/JSTest/02.Var.html" />
@@ -124,6 +124,7 @@
         <option value="$PROJECT_DIR$/JSTest/32.金字塔.html" />
         <option value="$PROJECT_DIR$/JSTest/33.获取某类元素.html" />
         <option value="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" />
+        <option value="$PROJECT_DIR$/京东商城JS/02 input输入光标高度问题.html" />
       </list>
     </option>
   </component>
@@ -143,8 +144,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1847" />
-    <option name="y" value="133" />
+    <option name="x" value="2013" />
+    <option name="y" value="198" />
     <option name="width" value="1378" />
     <option name="height" value="797" />
   </component>
@@ -267,7 +268,7 @@
       <workItem from="1541725824235" duration="4004000" />
       <workItem from="1541730461078" duration="1469000" />
       <workItem from="1542002000616" duration="1801000" />
-      <workItem from="1542071010198" duration="1942000" />
+      <workItem from="1542071010198" duration="4689000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -549,14 +550,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542074448841</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Default">
+      <created>1542075187554</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1542075187554</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199245000" />
+    <option name="totallyTimeSpent" value="201992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1821" y="120" width="1378" height="797" extended-state="0" />
+    <frame x="2013" y="198" width="1378" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14552239" />
@@ -636,13 +644,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSSTest/test11-翻转效果.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -944,8 +945,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/01 京东搜索框.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="183">
+          <caret line="21" column="26" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东商城JS/02 input输入光标高度问题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
