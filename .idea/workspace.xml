@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +23,8 @@
       <file leaf-file-name="01 京东搜索框.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/京东商城JS/01 京东搜索框.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="59" column="68" lean-forward="true" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -133,10 +134,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1781" />
-    <option name="y" value="77" />
+    <option name="x" value="1935" />
+    <option name="y" value="40" />
     <option name="width" value="1378" />
-    <option name="height" value="865" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -257,7 +258,7 @@
       <workItem from="1541725824235" duration="4004000" />
       <workItem from="1541730461078" duration="1469000" />
       <workItem from="1542002000616" duration="1801000" />
-      <workItem from="1542071010198" duration="9049000" />
+      <workItem from="1542071010198" duration="9211000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -560,14 +561,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542090711841</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Default">
+      <created>1542090731690</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1542090731690</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206352000" />
+    <option name="totallyTimeSpent" value="206514000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1781" y="77" width="1378" height="865" extended-state="0" />
+    <frame x="1935" y="40" width="1378" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14552239" />
@@ -955,8 +963,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/01 京东搜索框.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="59" column="68" lean-forward="true" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
         </state>
       </provider>
     </entry>

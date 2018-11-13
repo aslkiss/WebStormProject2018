@@ -53,6 +53,10 @@
                 return document.getElementById(id);
             }
 
+            //onpropertychange 是 兼容IE678 以下的版本。
+            //oninput 大部分浏览器支持， 检查用户表达你输入内容
+
+            2018/11/13 这里的意思是说
             $("txt").oninput=$("txt").onpropertychange=function () {
                 if (this.value==""){
                     $("label").style.display="block";
