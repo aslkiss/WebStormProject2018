@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/京东商城JS/05 隔行变色.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/05 隔行变色.html" afterDir="false" />
     </list>
@@ -23,17 +24,26 @@
       <file leaf-file-name="04 for语句.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/京东商城JS/04 for语句.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="130">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05 隔行变色.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05 隔行变色.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/京东商城JS/05 隔行变色.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="49" column="88" selection-start-line="49" selection-start-column="88" selection-end-line="49" selection-end-column="88" />
+            <state relative-caret-position="241">
+              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06 createElement创建HTML对象.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -74,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSTest/03.体会JS三要素.html" />
         <option value="$PROJECT_DIR$/JSTest/04.体会JS三要素02.html" />
         <option value="$PROJECT_DIR$/JSTest/05.关闭topbanner.html" />
         <option value="$PROJECT_DIR$/JSTest/05_隐藏.html" />
@@ -125,6 +134,7 @@
         <option value="$PROJECT_DIR$/京东商城JS/03 H5京东搜索框.html" />
         <option value="$PROJECT_DIR$/京东商城JS/04 for语句.html" />
         <option value="$PROJECT_DIR$/京东商城JS/05 隔行变色.html" />
+        <option value="$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html" />
       </list>
     </option>
   </component>
@@ -144,10 +154,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1908" />
-    <option name="y" value="48" />
+    <option name="x" value="1813" />
+    <option name="y" value="252" />
     <option name="width" value="1376" />
-    <option name="height" value="858" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -270,7 +280,9 @@
       <workItem from="1542002000616" duration="1801000" />
       <workItem from="1542071010198" duration="10967000" />
       <workItem from="1542156740051" duration="6667000" />
-      <workItem from="1542177872067" duration="4231000" />
+      <workItem from="1542177872067" duration="4748000" />
+      <workItem from="1542184392632" duration="602000" />
+      <workItem from="1542762918124" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="Default">
       <created>1532418300768</created>
@@ -608,14 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542179681668</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Default">
+      <created>1542182934903</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1542182934903</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219168000" />
+    <option name="totallyTimeSpent" value="220908000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1908" y="48" width="1376" height="858" extended-state="0" />
+    <frame x="1813" y="252" width="1376" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14573991" />
@@ -695,7 +714,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSTest/test12-京东轮播图效果显示三角.html" />
     <entry file="file://$PROJECT_DIR$/CSSTest/test9-lift.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1004,15 +1022,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/04 for语句.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="130">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/05 隔行变色.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="49" column="88" selection-start-line="49" selection-start-column="88" selection-end-line="49" selection-end-column="88" />
+        <state relative-caret-position="241">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
