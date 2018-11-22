@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/京东商城JS/07 全选和反全选.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/07 全选和反全选.html" afterDir="false" />
     </list>
@@ -20,20 +21,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07 全选和反全选.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07 全选和反全选.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/京东商城JS/07 全选和反全选.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="237">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05 隔行变色.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/京东商城JS/05 隔行变色.html">
+      <file leaf-file-name="08 全选和反全选代码优化.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="262">
+              <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13.函数.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTest/13.函数.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.关于函数的面试题.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTest/14.关于函数的面试题.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15.变量提升.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTest/15.变量提升.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16.函数的参数1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTest/16.函数的参数1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -74,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSTest/05.关闭topbanner.html" />
         <option value="$PROJECT_DIR$/JSTest/05_隐藏.html" />
         <option value="$PROJECT_DIR$/JSTest/05.隐藏.html" />
         <option value="$PROJECT_DIR$/JSTest/06.关闭topbanner.html" />
@@ -125,6 +161,7 @@
         <option value="$PROJECT_DIR$/京东商城JS/05 隔行变色.html" />
         <option value="$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html" />
         <option value="$PROJECT_DIR$/京东商城JS/07 全选和反全选.html" />
+        <option value="$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html" />
       </list>
     </option>
   </component>
@@ -144,8 +181,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1916" />
-    <option name="y" value="165" />
+    <option name="x" value="1909" />
+    <option name="y" value="41" />
     <option name="width" value="1376" />
     <option name="height" value="871" />
   </component>
@@ -164,16 +201,6 @@
             <path>
               <item name="WebStormProject2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebStormProject2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebStormProject2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebStormProject2018" type="462c0819:PsiDirectoryNode" />
-              <item name="CSSTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebStormProject2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebStormProject2018" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebStormProject2018" type="b2602c69:ProjectViewProjectNode" />
@@ -283,14 +310,7 @@
       <workItem from="1542177872067" duration="4748000" />
       <workItem from="1542184392632" duration="602000" />
       <workItem from="1542762918124" duration="5709000" />
-      <workItem from="1542850629930" duration="998000" />
-    </task>
-    <task id="LOCAL-00003" summary="Default">
-      <created>1532498886561</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1532498886561</updated>
+      <workItem from="1542850629930" duration="5833000" />
     </task>
     <task id="LOCAL-00004" summary="Default">
       <created>1532498908905</created>
@@ -628,14 +648,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542782300903</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Default">
+      <created>1542851674417</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1542851674417</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226994000" />
+    <option name="totallyTimeSpent" value="231829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1916" y="165" width="1376" height="775" extended-state="0" />
+    <frame x="1909" y="41" width="1376" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14573991" />
@@ -715,9 +742,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/baidu/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -837,34 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTest/13.函数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTest/14.关于函数的面试题.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTest/15.变量提升.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTest/16.函数的参数1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1039,10 +1035,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/13.函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/14.关于函数的面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/15.变量提升.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTest/16.函数的参数1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/07 全选和反全选.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state relative-caret-position="237">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
         </state>
       </provider>
     </entry>
