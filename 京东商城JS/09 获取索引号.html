@@ -30,8 +30,13 @@
 
             for (var i=0;i<obj_btn.length;i++)
             {
+                // 时间：2018/11/23
+                // 1.系统打开的时候，首先都循环完毕了，用户在点击对应的按钮，此时 alert(i) 弹出的都是5； 可以用浏览器调试就知道了
+
                 obj_btn[i].onclick=function(){
-                    obj_btn[i].className="bgc";
+                    //时间：2018/11/23 这里一定使用this, 如果使用 obj_btn[i] 就会报错
+                    this.className="bgc";
+                    alert(i);
                 }
 
             }
