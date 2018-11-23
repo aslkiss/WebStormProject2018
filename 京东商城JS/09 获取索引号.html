@@ -24,19 +24,23 @@
 
     <script>
 
-        window.onload=function () {
+        window.onload = function () {
 
-            var obj_btn=document.getElementsByTagName("button");
+            var obj_btn = document.getElementsByTagName("button");
 
-            for (var i=0;i<obj_btn.length;i++)
-            {
+            for (var i = 0; i < obj_btn.length; i++) {
                 // 时间：2018/11/23
                 // 1.系统打开的时候，首先都循环完毕了，用户在点击对应的按钮，此时 alert(i) 弹出的都是5； 可以用浏览器调试就知道了
 
-                obj_btn[i].onclick=function(){
+                obj_btn[i].onclick = function () {
                     //时间：2018/11/23 这里一定使用this, 如果使用 obj_btn[i] 就会报错
-                    this.className="bgc";
-                    alert(i);
+                    for (var j = 0; j < obj_btn.length; j++) {
+                        obj_btn[j].className = "";
+                    }
+                    this.className = "bgc";
+
+                    // 永远得不到序列号
+                    // alert(i);
                 }
 
             }
