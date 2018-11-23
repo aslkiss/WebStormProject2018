@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获取索引号</title>
+    <style>
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        button {
+            margin: 10px 0 0 10px;
+            width: 80px;
+            height: 25px;
+        }
+
+        .bgc {
+            background-color: pink;
+        }
+
+    </style>
+
+    <script>
+
+        window.onload=function () {
+
+            var obj_btn=document.getElementsByTagName("button");
+
+            for (var i=0;i<obj_btn.length;i++)
+            {
+                obj_btn[i].onclick=function(){
+                    obj_btn[i].className="bgc";
+                }
+
+            }
+
+
+        }
+    </script>
+
+</head>
+<body>
+<button>按钮1</button>
+<button>按钮2</button>
+<button>按钮3</button>
+<button>按钮4</button>
+<button>按钮5</button>
+
+</body>
+</html>
