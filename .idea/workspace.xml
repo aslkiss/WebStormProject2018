@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="10 获取当前索引号.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+            <state relative-caret-position="203">
+              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -136,8 +135,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1803" />
-    <option name="y" value="69" />
+    <option name="x" value="1902" />
+    <option name="y" value="152" />
     <option name="width" value="1376" />
     <option name="height" value="871" />
   </component>
@@ -267,28 +266,7 @@
       <workItem from="1542762918124" duration="5709000" />
       <workItem from="1542850629930" duration="8234000" />
       <workItem from="1542868813495" duration="616000" />
-      <workItem from="1542938854029" duration="7194000" />
-    </task>
-    <task id="LOCAL-00009" summary="Default">
-      <created>1533777408170</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1533777408170</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Default">
-      <created>1533801129866</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1533801129866</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Default">
-      <created>1533801413819</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1533801413819</updated>
+      <workItem from="1542938854029" duration="8181000" />
     </task>
     <task id="LOCAL-00012" summary="Default">
       <created>1533807725053</created>
@@ -612,11 +590,32 @@
       <option name="project" value="LOCAL" />
       <updated>1542954568427</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Default">
+      <created>1542957013010</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1542957013010</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Default">
+      <created>1542957684445</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1542957684445</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Default">
+      <created>1542957770648</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1542957770648</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242040000" />
+    <option name="totallyTimeSpent" value="243027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1803" y="69" width="1376" height="871" extended-state="0" />
@@ -1037,8 +1036,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+        <state relative-caret-position="203">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
         </state>
       </provider>
     </entry>
