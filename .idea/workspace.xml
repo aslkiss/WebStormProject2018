@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/京东商城JS/11 Tab栏切换.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="10 获取当前索引号.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10 获取当前索引号.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="338">
+              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11 Tab栏切换.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/11 Tab栏切换.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09 获取索引号.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/京东商城JS/09 获取索引号.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -48,6 +68,7 @@
       <find>fa-gears</find>
       <find>i元素</find>
       <find>btn</find>
+      <find>content</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSTest/06.关闭topbanner.html" />
         <option value="$PROJECT_DIR$/AISTets/css/index.css" />
         <option value="$PROJECT_DIR$/AISTets/index2.html" />
         <option value="$PROJECT_DIR$/AISTets/index3.html" />
@@ -116,6 +136,7 @@
         <option value="$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html" />
         <option value="$PROJECT_DIR$/京东商城JS/09 获取索引号.html" />
         <option value="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" />
+        <option value="$PROJECT_DIR$/京东商城JS/11 Tab栏切换.html" />
       </list>
     </option>
   </component>
@@ -135,10 +156,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1902" />
-    <option name="y" value="152" />
-    <option name="width" value="1376" />
-    <option name="height" value="871" />
+    <option name="x" value="2003" />
+    <option name="y" value="200" />
+    <option name="width" value="1274" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -267,14 +288,10 @@
       <workItem from="1542850629930" duration="8234000" />
       <workItem from="1542868813495" duration="616000" />
       <workItem from="1542938854029" duration="8181000" />
-      <workItem from="1543368956461" duration="711000" />
-    </task>
-    <task id="LOCAL-00013" summary="Default">
-      <created>1533890210862</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1533890210862</updated>
+      <workItem from="1543368956461" duration="1416000" />
+      <workItem from="1543386359719" duration="175000" />
+      <workItem from="1543473392331" duration="599000" />
+      <workItem from="1543541138549" duration="8950000" />
     </task>
     <task id="LOCAL-00014" summary="Default">
       <created>1534142707261</created>
@@ -612,17 +629,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543369081685</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Default">
+      <created>1543373499612</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1543373499612</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243738000" />
+    <option name="totallyTimeSpent" value="254167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1902" y="152" width="1376" height="871" extended-state="0" />
+    <frame x="2003" y="200" width="1274" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.1464873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.15857606" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -645,20 +669,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14962406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32961783" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3280255" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32961783" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -699,9 +723,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/baidu/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/09.定时执行百度换肤效果.html" />
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -979,13 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/京东商城JS/05 隔行变色.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSTest/13.函数.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1028,17 +1042,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/京东商城JS/05 隔行变色.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/09 获取索引号.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="33" lean-forward="true" selection-end-line="61" selection-end-column="7" />
+        <state relative-caret-position="410">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="338">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东商城JS/11 Tab栏切换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
         </state>
       </provider>
     </entry>
