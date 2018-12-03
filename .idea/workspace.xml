@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +23,8 @@
       <file leaf-file-name="12 Tab栏切换02.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+            <state relative-caret-position="254">
+              <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -136,8 +137,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2028" />
-    <option name="y" value="148" />
+    <option name="x" value="2037" />
+    <option name="y" value="303" />
     <option name="width" value="1274" />
     <option name="height" value="837" />
   </component>
@@ -275,14 +276,7 @@
       <workItem from="1543565621366" duration="1693000" />
       <workItem from="1543801619076" duration="3016000" />
       <workItem from="1543815697673" duration="2314000" />
-      <workItem from="1543822742532" duration="1747000" />
-    </task>
-    <task id="LOCAL-00019" summary="Default">
-      <created>1534388827630</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1534388827630</updated>
+      <workItem from="1543822742532" duration="3014000" />
     </task>
     <task id="LOCAL-00020" summary="Default">
       <created>1534391402075</created>
@@ -620,14 +614,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543824489990</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Default">
+      <created>1543824504098</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1543824504098</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262937000" />
+    <option name="totallyTimeSpent" value="264204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2028" y="148" width="1274" height="837" extended-state="0" />
+    <frame x="2268" y="135" width="1274" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.14563107" />
@@ -1055,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        <state relative-caret-position="254">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
         </state>
       </provider>
     </entry>
