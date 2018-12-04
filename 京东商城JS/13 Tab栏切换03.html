@@ -27,28 +27,54 @@
             display: inline-block;
         }
 
+        .show {
+            background-color: purple;
+            display: block;
+        }
+
+        .display {
+            display: none;
+        }
+
         .box .top #li_04 {
             border: none;
         }
 
-        .box .bottom div {
+        .bottom div {
             /*隐藏*/
             /*visibility: hidden;*/
+            float: left;
             width: 403px;
             height: 470px;
-            background-color: red;
-            display: none;
         }
+
+
+
 
     </style>
 
     <script>
 
         window.onload=function () {
-            var obj_lis=document.getElementById("lis");
+            var obj_uls=document.getElementById("uls").getElementsByTagName("li");
+            var obj_divs=document.getElementById("divs").getElementsByTagName("div");
 
-            for (var i=0;i<obj_lis.length;i++){
+            for (var i=0;i<obj_uls.length;i++){
+                obj_uls[i].index=i;
 
+                obj_divs[i].className="display";
+                obj_uls[i].class="";
+
+                obj_uls[i].onmousemove=function () {
+                    this.className="show";
+                    obj_divs[this.index].className="show";
+                }
+
+                obj_uls[i].onmouseout=function () {
+                    this.className="";
+                    obj_divs[this.index].className="";
+                    obj_divs[this.index].className="display";
+                }
             }
 
         }
@@ -60,17 +86,17 @@
 </head>
 <body>
     <div class="box">
-        <div class="top" id="lis">
-            <ul>
-                <li>新闻</li>
+        <div class="top" >
+            <ul id="uls">
+                <li class="show">新闻</li>
                 <li>体育</li>
                 <li>女性</li>
                 <li id="li_04">股票</li>
             </ul>
         </div>
 
-        <div class="bottom">
-            <div>新闻</div>
+        <div class="bottom" id="divs">
+            <div class="show">新闻</div>
             <div>体育</div>
             <div>女性</div>
             <div>股票</div>
