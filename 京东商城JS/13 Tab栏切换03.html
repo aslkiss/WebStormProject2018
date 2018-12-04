@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tab栏切换03</title>
+
+    <style>
+        * {margin: 0px; padding: 0px;}
+
+        .box {
+            margin: 150px auto;
+            width: 403px;
+            height: 500px;
+            border: 1px solid #aeb5ad;
+        }
+
+        .box .top ul li {
+            list-style: none;
+            float: left;
+            width: 100px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            border-right: 1px solid #cccccc;
+            cursor: pointer;
+
+            display: inline-block;
+        }
+
+        .box .top #li_04 {
+            border: none;
+        }
+
+        .box .bottom div {
+            /*隐藏*/
+            /*visibility: hidden;*/
+            width: 403px;
+            height: 470px;
+            background-color: red;
+            display: none;
+        }
+
+    </style>
+
+    <script>
+
+        window.onload=function () {
+            var obj_lis=document.getElementById("lis");
+
+            for (var i=0;i<obj_lis.length;i++){
+
+            }
+
+        }
+
+
+
+    </script>
+
+</head>
+<body>
+    <div class="box">
+        <div class="top" id="lis">
+            <ul>
+                <li>新闻</li>
+                <li>体育</li>
+                <li>女性</li>
+                <li id="li_04">股票</li>
+            </ul>
+        </div>
+
+        <div class="bottom">
+            <div>新闻</div>
+            <div>体育</div>
+            <div>女性</div>
+            <div>股票</div>
+        </div>
+
+    </div>
+
+
+
+</body>
+</html>
