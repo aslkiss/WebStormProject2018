@@ -70,11 +70,13 @@
                 objs_span[i].index=i;
                 // 1.鼠标经过变底色
                 objs_span[i].onmousemove=function () {
-                    // 2.清除所有留下自己，需要清除其他所有的背景底色
-                    for(var j=0;j<objs_span[j].length;j++){
+
+
+                    for (var j=0;j<objs_span.length;j++) {
                         objs_span[j].className="";
                     }
-                    this.className="show";
+
+                    objs_span[this.index].className="show";
 
                 }
 
