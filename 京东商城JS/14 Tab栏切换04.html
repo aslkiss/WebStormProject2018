@@ -55,35 +55,40 @@
             background-color: purple;
             height: 270px;
             width: 100%;
+
+            display: none;
+        }
+
+        .box .mb .div1 {
+            display: block;
         }
 
     </style>
 
     <script>
-        window.onload=function () {
-            var objs_span=document.getElementById("mt").getElementsByTagName("span");
-            var objs_div=document.getElementById("mb").getElementsByTagName("div");
+        window.onload = function () {
+            var objs_span = document.getElementById("mt").getElementsByTagName("span");
+            var objs_div = document.getElementById("mb").getElementsByTagName("div");
 
             // 鼠标移动
-            for(var i=0;i<objs_span.length;i++){
+            for (var i = 0; i < objs_span.length; i++) {
 
-                objs_span[i].index=i;
+                objs_span[i].index = i;
                 // 1.鼠标经过变底色
-                objs_span[i].onmousemove=function () {
-
-
-                    for (var j=0;j<objs_span.length;j++) {
-                        objs_span[j].className="";
+                // 2.清除所有，流下自己
+                // 3.处理div的显示，在CSS中将所有的 div全部不显示，然后单独将第一个显示成默认；
+                // 后面通过类名的切换display的属性
+                objs_span[i].onmousemove = function () {
+                    for (var j = 0; j < objs_span.length; j++) {
+                        objs_span[j].className = "";
+                        objs_div[j].className = "";
                     }
-
-                    objs_span[this.index].className="show";
-
+                    // 这里是 objs_span 不能写成this[this.index].className 这里有2个this,系统没有办法
+                    // 区分到底是那个this的指向
+                    objs_span[this.index].className = "show";
+                    objs_div[this.index].className = "div1";
                 }
-
-
             }
-
-
         }
 
     </script>
