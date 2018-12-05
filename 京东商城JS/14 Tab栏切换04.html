@@ -20,11 +20,11 @@
         .box .mt {
             font-size: 0;
             color: #ccc;
-            font-weight: 600;
+            /*font-weight: 600;*/
         }
 
         div span {
-            /* 2018/12/5 隐藏溢出来的部分 */
+
             display: inline-block;
             font-size: 16px;
             border: none;
@@ -41,14 +41,18 @@
 
         /* ***下半部分 */
         .box .mb {
+            /*时间：2018/12/5 10:31 分，如果需要设置 overflow为溢出的部分隐藏，
+                则一定要设置父亲和儿子的宽高范围，*/
+            /*这样系统才知道是溢出的部分，否则无法实现隐藏,可以使用高度或100%来代替*/
             overflow: hidden;
+            width: 240px;
+            height: 270px;
         }
 
         .box .mb div {
-            overflow: hidden;
             background-color: purple;
             height: 270px;
-            width: 240px;
+            width: 100%;
 
         }
     </style>
