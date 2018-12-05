@@ -50,36 +50,60 @@
         }
 
         .box .mb div {
+            /*这里的设置背景是将所有都设置成一个颜色，然后将多余溢出的部分隐藏掉*/
+            /*然后再来切换各span之间的鼠标移动*/
             background-color: purple;
             height: 270px;
             width: 100%;
-
         }
+
     </style>
 
     <script>
+        window.onload=function () {
+            var objs_span=document.getElementById("mt").getElementsByTagName("span");
+            var objs_div=document.getElementById("mb").getElementsByTagName("div");
 
+            // 鼠标移动
+            for(var i=0;i<objs_span.length;i++){
+
+                objs_span[i].index=i;
+                // 1.鼠标经过变底色
+                objs_span[i].onmousemove=function () {
+                    // 2.清除所有留下自己，需要清除其他所有的背景底色
+                    for(var j=0;j<objs_span[j].length;j++){
+                        objs_span[j].className="";
+                    }
+                    this.className="show";
+
+                }
+
+
+            }
+
+
+        }
 
     </script>
 </head>
 
 <body>
 
-    <div class="box">
-        <div class="mt">
-            <span class="show">新闻</span>
-            <span>英文</span>
-            <span>体育</span>
-            <span>娱乐</span>
-        </div>
-
-        <div class="mb">
-            <div class="div1">新闻</div>
-            <div>英文</div>
-            <div>体育</div>
-            <div>娱乐</div>
-        </div>
+<div class="box">
+    <div class="mt" id="mt">
+        <span class="show">新闻</span>
+        <span>英文</span>
+        <span>体育</span>
+        <span>娱乐</span>
     </div>
+
+    <div class="mb" id="mb">
+        <div class="div1">新闻</div>
+        <div>英文</div>
+        <div>体育</div>
+        <div>娱乐</div>
+    </div>
+</div>
 
 </body>
 

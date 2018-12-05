@@ -4,7 +4,6 @@
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/15 Tab Overflow.html" beforeDir="false" afterPath="$PROJECT_DIR$/京东商城JS/15 Tab Overflow.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,23 +19,32 @@
     <favorites_list name="WebStormProject2018" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5137457">
+    <splitter split-orientation="horizontal" split-proportion="0.6400344">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="14 Tab栏切换04.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html">
+          <file leaf-file-name="13 Tab栏切换03.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/京东商城JS/13 Tab栏切换03.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="288">
-                  <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+                <state relative-caret-position="-1025">
+                  <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="15 Tab Overflow.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/京东商城JS/15 Tab Overflow.html">
+          <file leaf-file-name="12 Tab栏切换02.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="401">
-                  <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+                <state relative-caret-position="717">
+                  <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14 Tab栏切换04.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -48,8 +56,8 @@
           <file leaf-file-name="14 Tab栏切换04.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="137">
-                  <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+                <state relative-caret-position="251">
+                  <caret line="99" column="26" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -308,14 +316,7 @@
       <workItem from="1543913929884" duration="609000" />
       <workItem from="1543971971556" duration="1500000" />
       <workItem from="1543976243189" duration="110000" />
-      <workItem from="1543976388253" duration="825000" />
-    </task>
-    <task id="LOCAL-00024" summary="Default">
-      <created>1534401754663</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1534401754663</updated>
+      <workItem from="1543976388253" duration="2602000" />
     </task>
     <task id="LOCAL-00025" summary="Default">
       <created>1539049508533</created>
@@ -653,17 +654,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543976904771</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Default">
+      <created>1543977222484</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1543977222484</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275579000" />
+    <option name="totallyTimeSpent" value="277356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.13392857" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.1279762" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -1065,17 +1073,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html">
+    <entry file="file://$PROJECT_DIR$/京东商城JS/13 Tab栏切换03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="-1025">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/京东商城JS/13 Tab栏切换03.html">
+    <entry file="file://$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="717">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1088,8 +1096,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        <state relative-caret-position="320">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
         </state>
       </provider>
     </entry>
