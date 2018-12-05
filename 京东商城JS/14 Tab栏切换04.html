@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tab栏切换04</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .box {
+            margin: 100px auto;
+            width: 240px;
+            height: 300px;
+            border: 1px solid #ccc;
+        }
+
+        .box .mt {
+            font-size: 0;
+            color: #ccc;
+            font-weight: 600;
+        }
+
+        div span {
+            /* 2018/12/5 隐藏溢出来的部分 */
+            display: inline-block;
+            font-size: 16px;
+            border: none;
+            width: 60px;
+            height: 30px;
+            text-align: center;
+            line-height: 30px;
+            cursor: pointer;
+        }
+
+        .box .mt .show {
+            background-color: purple;
+        }
+
+        /* ***下半部分 */
+        .box .mb {
+            overflow: hidden;
+        }
+
+        .box .mb div {
+            overflow: hidden;
+            background-color: purple;
+            height: 270px;
+            width: 240px;
+
+        }
+    </style>
+
+    <script>
+
+
+    </script>
+</head>
+
+<body>
+
+    <div class="box">
+        <div class="mt">
+            <span class="show">新闻</span>
+            <span>英文</span>
+            <span>体育</span>
+            <span>娱乐</span>
+        </div>
+
+        <div class="mb">
+            <div class="div1">新闻</div>
+            <div>英文</div>
+            <div>体育</div>
+            <div>娱乐</div>
+        </div>
+    </div>
+
+</body>
+
+</html>
