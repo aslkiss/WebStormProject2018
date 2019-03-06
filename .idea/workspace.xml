@@ -3,60 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9cf33ca-b244-4d5c-90ac-64ba3562118c" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSTest/07.京东轮播图效果显示三角.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTest/07.京东轮播图效果显示三角.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/01 京东搜索框.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/02 input输入光标高度问题.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/03 H5京东搜索框.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/04 for语句.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/05 隔行变色.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/06 createElement创建HTML对象.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/07 全选和反全选.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/08 全选和反全选代码优化.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/09 获取索引号.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/10 获取当前索引号.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/11 Tab栏切换.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/12 Tab栏切换02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/13 Tab栏切换03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/14 Tab栏切换04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/15 Tab Overflow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/16 Tab栏切换05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/17 循环语句while.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/18 下拉菜单.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/19 下拉菜单 switch 02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/20 星座运势 01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/21 星座运势 02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/22 获取所有元素 01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/23 访问关系01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/24 京东星星评价.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/25 动态更改盒子宽高.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/26 动态更改span的宽度.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/27 京东星星评价02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/28 京东星星评价03 成功.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/29 字符串和数值的相加constrol.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/30 京东星星评价04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/31 京东星星评价05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/32 数组的练习 01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/33 数组的练习concat 02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/34 数组的练习join 03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/35 数组的练习split 04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/36 封装自己的class类 01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/37 封装自己的class类 02终极.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/38 封装自己的class类 03测试dom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/39 DOM 兄弟节点.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/40 DOM 父亲节点关闭二维码.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/41 DOM 子节点练习.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/42 DOM 孩子节点练习.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/43 DOM 孩子节点练习 01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/commstar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/erweima.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/face-red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/sprite-tip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/十二星座01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/京东商城JS/images/十二星座02.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -323,21 +269,7 @@
       <workItem from="1544057545266" duration="2000" />
       <workItem from="1544057895319" duration="110000" />
       <workItem from="1547695382820" duration="180000" />
-      <workItem from="1547794720699" duration="603000" />
-    </task>
-    <task id="LOCAL-00029" summary="Default">
-      <created>1540950910598</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1540950910598</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Default">
-      <created>1540951408136</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1540951408136</updated>
+      <workItem from="1547794720699" duration="1199000" />
     </task>
     <task id="LOCAL-00031" summary="Default">
       <created>1541122276068</created>
@@ -668,11 +600,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547695481068</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Default">
+      <created>1547795522611</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1547795522612</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Default">
+      <created>1547795910425</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1547795910425</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279242000" />
+    <option name="totallyTimeSpent" value="279838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
